@@ -1,0 +1,18 @@
+body
+{
+	margin: 0px;
+}
+
+.contenido
+{
+    border: dashed 0px;
+    height: 300px;
+}
+
+#contenedor-info
+{
+	border: dashed 1px;
+	position: fixed;
+	left: 5px;
+	top: 5px;
+}
